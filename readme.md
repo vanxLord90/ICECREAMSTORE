@@ -1,4 +1,5 @@
 This is a project that showcases my Model-View-Controller skills using Java Spring Boot and Vue.js
+
 To run it: 
 
 clone the project 
