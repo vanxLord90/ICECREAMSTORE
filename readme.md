@@ -13,5 +13,3 @@ cd into frontend
 run npm run dev
 
 go to localhost:3000 and the webapp will be shown there.
-
-For further improvements I am working on integrating database, and rest-api.
